@@ -1,6 +1,6 @@
 
 import fs from 'fs'
-import { yarg } from './config/plugins/argvadapter-plugins'
+import { yarg } from '../config/plugins/argvadapter-plugins'
 
 
 
